@@ -1,8 +1,8 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a computer science student currently pursuing a Bachelor of Science in Computer Science at the University of Virginia. For the past two years, I have conducted machine learning research on the UVA Floodwatch team, and I have been the Team Lead for the past year. Floodwatch is a smart-city Internet of Things platform for flood prediction. See floodwatch.io. Last summer, I was a software engineering internship at NimbleRx, a med-tech unicorn-stage startup. This upcoming summer, I will be a software engineering intern at Jane Street. Following my graduation from UVA, I will be pursuing a Master of Science in Computational Science and Engineering at Harvard University.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+In my free time, I enjoy playing tennis, rock climbing, and violin.
