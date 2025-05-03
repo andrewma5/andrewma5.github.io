@@ -1,0 +1,23 @@
+# _data/experiences.yml
+- company: Jane Street
+  title: Incoming Software Engineering Intern
+  dates: May 2025 - Aug 2025
+  logo: /assets/images/janestreet-logo.jpg
+  link: https://www.janestreet.com/
+- company: NimbleRx
+  title: Software Engineering Intern
+  dates: Jun 2024 - Aug 2024
+  logo: /assets/images/nimblerx-logo.png
+  link: https://www.nimblerx.com/
+
+- company: Floodwatch Research
+  title: ML Team Lead
+  dates: Apr 2023 - May 2025
+  logo: /assets/images/floodwatch-logo.png
+  link: https://floodwatch.io
+
+- company: UVA CS Department
+  title: Teaching Assistant
+  dates: Jan 2024 - Dec 2024
+  logo: /assets/images/uva-logo.png
+  link: https://www.cs.virginia.edu/

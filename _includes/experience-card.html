@@ -1,0 +1,12 @@
+<div class="experience-card">
+  <div class="logo-wrap">
+    <img
+      src="{{ include.exp.logo | relative_url }}"
+      alt="{{ include.exp.company }} logo"
+      loading="lazy"
+    >
+  </div>
+  <h3 class="company">{{ include.exp.company }}</h3>
+  <p class="title">{{ include.exp.title }}</p>
+  <p class="description">{{ include.exp.description }}</p>
+</div>

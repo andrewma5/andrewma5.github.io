@@ -1,3 +1,11 @@
 main:
+  - title: "Home"
+    url: /
   - title: "About Me"
     url: /about/
+  - title: "Experience"
+    url: /experience/
+  - title: "Resume"
+    url: /resume/
+  - title: "Misc"
+    url: /misc/
