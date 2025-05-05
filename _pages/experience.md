@@ -15,6 +15,7 @@ title: "Experience"
         <span class="dates">{{ exp.dates }}</span>
       </div>
       <p class="title">{{ exp.title }}</p>
+      <p class="description">{{ exp.description }}</p>
     </div>
   </a>
 {% endfor %}

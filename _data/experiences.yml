@@ -4,20 +4,44 @@
   dates: May 2025 - Aug 2025
   logo: /assets/images/janestreet-logo.jpg
   link: https://www.janestreet.com/
+  description:
+
 - company: NimbleRx
   title: Software Engineering Intern
   dates: Jun 2024 - Aug 2024
   logo: /assets/images/nimblerx-logo.png
   link: https://www.nimblerx.com/
+  description: >-
+    •	Developed and maintained endpoints and services for Java SpringBoot backend server <br>
+    •	Integrated external API endpoint for pharmacy system signature submissions, resulting in streamlined signature submission for 3000+ patients across 34 pharmacies <br>                                                                                                           
+    •	Designed and implemented the surfacing of specific error messages for payment declines/failure, addressing 17% in lost GMV caused by abandoned orders <br>
+    •	Wrote backward-compatible schema migrations for Liquibase PostgreSQL database, ensuring seamless integration and system stability
 
 - company: Floodwatch Research
   title: ML Team Lead
   dates: Apr 2023 - May 2025
   logo: /assets/images/floodwatch-logo.png
   link: https://floodwatch.io
+  description: >-
+    •	Published original manuscript, “Sensor Corroboration Enhances Anomaly Detection in Flood Forecasting Systems,” as first author in the MDPI Journal of Sensor and Actuator Networks <br>
+        o	Engineered a novel deep learning based anomaly detection system for validation of live sensor data streams, improving performance by 10.8% compared to state of the art <br>
+    •	Designed and implemented Python cron job to automatically produce and update flood forecasts for the user-facing application, ensuring real-time flood risk information for 10,000+ regions in Vietnam <br>
+    •	Led and mentored team of 6 undergraduate researchers to complete ML projects
 
 - company: UVA CS Department
   title: Teaching Assistant
   dates: Jan 2024 - Dec 2024
   logo: /assets/images/uva-logo.png
   link: https://www.cs.virginia.edu/
+  description: >-
+    •	TA for Computer Systems and Organization 2 (computer architecture, operating systems, C, networks)
+
+- company: UVA Biocomplexity Institute and Initiative
+  title: Research Intern
+  dates: May 2023 - Jul 2023
+  logo: /assets/images/uvabiocomp-logo.png
+  link: https://biocomplexity.virginia.edu/
+  description: >-
+    •	Built and implemented an end-to-end machine learning pipeline to detect irrigation canals in remote sensing imagery, resulting in a 0.77 F1-Score for the ResUNet model <br>
+    •	Generated 124,000km2 of ground truth images by georeferencing 2851 waterways in 29 satellite images, resulting in 124GB of processed data used for model training, testing, and validation <br>
+    •	Developed a visualization tool in Python that uses GIS to overlay waterways and orchards on satellite imagery, enhancing the ability to interpret, verify, and analyze segmentation model outputs <br>
