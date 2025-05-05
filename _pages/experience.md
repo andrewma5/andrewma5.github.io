@@ -1,6 +1,6 @@
 ---
-permalink: /experience/
-title: "Experience"
+permalink: /experiences/
+title: "Experiences"
 ---
 
 <div class="experience-grid">

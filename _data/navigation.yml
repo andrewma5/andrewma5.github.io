@@ -3,8 +3,8 @@ main:
     url: /
   - title: "About Me"
     url: /about/
-  - title: "Experience"
-    url: /experience/
+  - title: "Experiences"
+    url: /experiences/
   - title: "Resume"
     url: /resume/
   - title: "Misc"
